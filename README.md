@@ -1,2 +1,2 @@
 # Project-BIT
- 
+Project BIT was a student proposal for FALL 2020 CST 495 Capstone project, it wasto provide people on the internet a way to view and learn about the school campus without having to travel. This project focused firstly on  the Joel and Dena Gambord Business and Information Technology Building, or the BIT building as it represents the CS students of all concentrations. Other buildings that could be constructed later on would be the Tanimura & Antle Family Memorial Library and other buildings on campus.
